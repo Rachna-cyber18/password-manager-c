@@ -38,6 +38,21 @@ It stores passwords in an encrypted format using basic XOR encryption and file h
 
 ---
 
+## Screenshots
+
+### Set Master Password
+![Set Master Password](masterpassword1.c.png)
+
+### Login
+![Login](masterpassword2.c.png)
+
+### Add Website & Encrypt Password
+![Encrypt Website](encrypt along website.png)
+
+### Password File Storage
+![Password File](password.txt.png)
+
+
 ## How to Compile and Run
 
 ```bash
