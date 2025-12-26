@@ -47,26 +47,26 @@ gcc password_manager.c -o password_manager
 
 ## Screenshots
 
-### 1. Set Master Password
+ 1. Set Master Password
 ![Set Master Password](screenshots/set_master.png)
 
-### 2. Login
+2. Login
 ![Login](screenshots/login.png)
 
-### 3. Add Password
+3. Add Password
 ![Add Password](screenshots/add_password.png)
 
-### 4. View Stored Passwords
+4. View Stored Passwords
 ![View Passwords](screenshots/view_passwords.png)
 
-
+---
 
 ## Limitations 
 Uses basic XOR encryption (not secure for real-world use)
 No GUI (command-line only)
 Passwords stored locally
 
-
+---
 
 ## Future Improvements 
 Stronger encryption algorithms
@@ -74,15 +74,15 @@ Password update and delete functionality
 GUI-based version
 Migration to Python
 
-
+--
 
 ## Contributing
 Contributions are welcome! If you want to help improve this project, you can:
 
-- Fork the repository
-- Create a new branch for your feature or bug fix
-- Submit a pull request with your changes
-- Report issues or suggest improvements via GitHub Issues
+Fork the repository
+Create a new branch for your feature or bug fix
+Submit a pull request with your changes
+Report issues or suggest improvements via GitHub Issues
 
 Please ensure your code follows the existing style and is well-documented.
 
