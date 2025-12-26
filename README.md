@@ -61,14 +61,14 @@ gcc password_manager.c -o password_manager
 
 
 
-## Limitations - 
+## Limitations 
 Uses basic XOR encryption (not secure for real-world use)
 No GUI (command-line only)
 Passwords stored locally
 
 
 
-## Future Improvements - 
+## Future Improvements 
 Stronger encryption algorithms
 Password update and delete functionality
 GUI-based version
