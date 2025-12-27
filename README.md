@@ -46,9 +46,6 @@ It stores passwords in an encrypted format using basic XOR encryption and file h
 ### Login
 ![Login](masterpassword2.c.png)
 
-### Add Website & Encrypt Password
-![Encrypt Website](encrypt along website.png)
-
 ### Password File Storage
 ![Password File](password.txt.png)
 
